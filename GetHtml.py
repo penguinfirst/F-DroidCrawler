@@ -6,8 +6,10 @@ def getHtml(url):
 	html = page.read()
 	return html
 
-for i in range(2,4):
+def getGithubUrl(html)
+	reg = ''
+
+for i in range(2,3):
 	pageurl = "https://f-droid.org/packages/" + str(i) + "/index.html"
 	html = getHtml(pageurl)
-	print html
-	print "**********************************************"
+	
