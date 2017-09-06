@@ -1,15 +1,21 @@
+import os
 import re
-import urllib
+import requests
+from bs4 import BeautifulSoup
 
-def getHtml(url):
-	page = urllib.urlopen(url)
-	html = page.read()
-	return html
+document = open("f-droid_app.txt", "w+")
 
-def getGithubUrl(html)
-	reg = ''
+for i in range(1,45):
+	if i == 1:
+	    pageurl = "https://f-droid.org/packages/"
+	else:
+	    pageurl = "https://f-droid.org/packages/" + str(i) + "/index.html"
+	html = requests.get(pageurl).content
+	soup = BeautifulSoup(html, 'html.parser')
+	searcharea = soup.find("div", class_ = "article-area")
+	incomplete_url = searcharea.find_all("a", class_ = "package-header")
+	for link in incomplete_url:
+		url = "https://f-droid.org" + link.get('href')
+		document.write(url + "\n");
+document.close()
 
-for i in range(2,3):
-	pageurl = "https://f-droid.org/packages/" + str(i) + "/index.html"
-	html = getHtml(pageurl)
-	
