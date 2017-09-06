@@ -1,6 +1,7 @@
 import requests
 import os
 import json
+import time
 
 document = open("f_droid.csv", "r")
 des_doc = open("f-droid_native.csv", "w+")
@@ -8,10 +9,10 @@ target_doc = open("f-droid_target.csv", "w+")
 
 i = 0
 for line in document.readlines():
-	"""i = i + 1
-	if i > 4:
-		break
-	"""
+	i = i + 1
+	if i % 15 == 0:
+		time.sleep(2)
+	
 	con_cpp = False
 	con_mk = False
 	con_cmake = False
@@ -27,6 +28,7 @@ for line in document.readlines():
 		continue
 
 	githuburl = "https://api.github.com/repos/" + midstr + "/git/trees/master?recursive=12"
+	
 	procontent = requests.get(githuburl).json()	
 	for obj in procontent["tree"]:
 		if obj["type"] != "tree":
