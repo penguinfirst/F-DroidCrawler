@@ -4,14 +4,16 @@ import json
 import time
 
 document = open("f_droid.csv", "r")
-des_doc = open("f-droid_native.csv", "w+")
-target_doc = open("f-droid_target.csv", "w+")
+des_doc = open("f-droid_native.csv", "a+")
+target_doc = open("f-droid_target.csv", "a+")
 
 i = 0
 for line in document.readlines():
-	i = i + 1
-	if i % 15 == 0:
-		time.sleep(2)
+	"""i = i + 1
+	if i < 28 :
+		continue
+	"""
+
 	
 	con_cpp = False
 	con_mk = False
@@ -29,7 +31,12 @@ for line in document.readlines():
 
 	githuburl = "https://api.github.com/repos/" + midstr + "/git/trees/master?recursive=12"
 	
-	procontent = requests.get(githuburl).json()	
+	reqs = requests.get(githuburl)
+	if reqs.status_code == 404 :
+		des_doc.write(appname + "," + "do not have master\n")
+		continue
+
+	procontent = reqs.json()	
 	for obj in procontent["tree"]:
 		if obj["type"] != "tree":
 			filename = obj["path"]
