@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 
 document = open("f-droid_app.txt", "w+")
 
-for i in range(1,45):
+for i in range(1,48):
 	if i == 1:
 	    pageurl = "https://f-droid.org/packages/"
 	else:
