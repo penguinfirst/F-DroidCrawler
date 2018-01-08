@@ -2,7 +2,7 @@ import os
 
 src_doc_url = open("f-droid_app.txt", "r")
 src_doc_name = open("f-droid_name_url.txt", "r")
-des_doc = open("f_droid.csv", "w+")
+des_doc = open("f-droid.csv", "w+")
 
 def main():
 	for line in src_doc_url.readlines():	

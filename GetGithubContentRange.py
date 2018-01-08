@@ -10,7 +10,9 @@ target_doc = open("f-droid_target.csv", "a+")
 i = 0
 try:
 	for line in document.readlines():
-		i = i + 1	
+		i = i + 1
+		if i < 357:
+			continue	
 		con_cpp = False
 		con_mk = False
 		con_cmake = False
