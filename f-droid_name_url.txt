@@ -1,0 +1,1383 @@
+Bucket - Overlay Manager------https://github.com/jereksel/Bucket
+/r/Android App store------https://github.com/d4rken/reddit-android-appstore
+/system/app mover------https://github.com/j4velin/SystemAppMover
+1010! Klooni------https://github.com/LonamiWebs/Klooni1010
+2048------https://github.com/uberspot/2048-android
+24game------https://bitbucket.org/przemekr/24-game/src
+24h Analog Clock------https://staticfree.info/git/24hAnalogWidget.git
+2buntu------https://github.com/2buntu/2buntu-android-app
+30C3 Schedule (Camp)------https://github.com/tuxmobil/CampFahrplan
+32C3 Schedule (Congress)------https://github.com/tuxmobil/CampFahrplan
+33C3 Schedule------https://github.com/ligi/CampFahrplan
+33c3 SCR------https://github.com/ligi/SCR
+33c3 Wifi Setup------https://github.com/eqvinox/wifisetup
+34C3 Schedule------https://github.com/EventFahrplan/EventFahrplan
+A Photo Manager------https://github.com/k3b/androFotoFinder
+A Time Tracker------https://github.com/netmackan/ATimeTracker
+A2DP Volume------https://github.com/jroal/a2dpvolume
+Aard------https://github.com/aarddict/android
+AAT------https://github.com/bailuk/AAT
+ABCore------https://github.com/greenaddress/abcore
+aCalDAV------https://github.com/ennswi/AndroidCaldavSyncAdapater
+Acastus------https://github.com/DanielBarnett714/Acastus
+Accordion------https://github.com/billthefarmer/accordion
+Acrylic Paint------https://github.com/valerio-bozzolan/AcrylicPaint
+Activity Launcher------https://github.com/butzist/ActivityLauncher
+Ad-Free------https://github.com/abertschi/ad-free
+AdAway------https://github.com/AdAway/AdAway
+ADB Manager------https://github.com/ilijamt/android-adbm
+Add to calendar------https://github.com/danielegobbetti/ICSImport
+Addi------https://code.google.com/p/addi/source
+AddressToGPS------https://github.com/DanielBarnett714/AddressToGPS
+ADW.Launcher------https://github.com/AnderWeb/android_packages_apps_Launcher
+Aeon's End------https://github.com/JanSvoboda/aeonsend-randomizer
+AeonDroid------https://github.com/phora/AeonDroid
+AFH Downloader------https://github.com/daktak/afh_downloader
+aFreeRDP------https://github.com/FreeRDP/FreeRDP
+AFWall+------https://github.com/ukanth/afwall
+agram------https://github.com/achromaticmetaphor/agram
+AiCiA------https://bitbucket.org/dalb8/aicia
+AIProute------https://github.com/benjaminaigner/aiproute
+AirUnlock------https://github.com/pinetum/AirUnlock-for-Android
+Akhyou!------https://github.com/dulleh/akhyou
+Alarm Klock------https://github.com/kraigs-android/kraigsandroid
+aLogcat------https://code.google.com/p/alogcat/source
+Altcoin Prices------https://gitlab.com/cfabio/AltcoinPrices/tree/HEAD
+Always On AMOLED------https://github.com/rosenpin/AlwaysOnDisplayAmoled
+Always On AMOLED Plugin------https://github.com/rosenpin/AlwaysOnAmoledPlugin
+Amaze------https://github.com/arpitkh96/AmazeFileManager
+Amdroid------https://github.com/Dejvino/amdroid
+Ameixa------https://gitlab.com/xphnx/ameixa
+Ameixa LOS------https://gitlab.com/xphnx/twelf_cm12_theme
+Ameixa Monochrome------https://gitlab.com/xphnx/ameixa-monochrome
+aMetro------https://github.com/RomanGolovanov/ametro
+AN2Linux------https://github.com/rootkiwi/an2linuxclient
+Analytical Translator------https://github.com/xpheres/AndroidAnalyticalTranslator
+And Bible------https://github.com/mjdenham/and-bible
+andFHEM------https://github.com/klassm/andFHEM
+AndIodine------https://github.com/yvesf/andiodine
+Andor's Trail------https://github.com/Zukero/andors-trail
+andOTP------https://github.com/andOTP/andOTP
+AndrOBD------https://github.com/fr3ts0n/AndrOBD
+andRoc------ do not have direct source code url
+Android CUPS Print------https://github.com/BenoitDuffez/AndroidCupsPrint/tree/fdroid
+Android Explorer------https://github.com/iamtrk/Device-Explorer
+Android Token------https://github.com/markmcavoy/androidtoken
+Android version------https://github.com/mueller-ma/View-android-version
+AndroidPN Client------https://github.com/daktak/androidpn-client
+androidVNC------https://github.com/antlersoft/android-vnc-viewer
+AndroPTPB------https://github.com/phora/AndroPTPB
+AndroSS------https://github.com/tstein/AndroSS
+AndStatus------https://github.com/andstatus/andstatus
+Anecdote------https://github.com/HugoGresse/Anecdote
+Angulo------https://sourceforge.net/p/angulo/code
+Anime Openings------https://github.com/null-dev/animeopenings-android
+AnkiDroid------https://github.com/ankidroid/Anki-Android
+ANNO 1404 - Calculator------https://github.com/tran-khoa/ANNO1404-Warenrechner-App
+Another RSS------https://github.com/no-go/AnotherRSS
+AnotherMonitor------https://github.com/AntonioRedondo/AnotherMonitor
+Anstop------https://github.com/jdmonin/anstop
+AntennaPod------https://github.com/antennapod/AntennaPod
+Anuto TD------https://github.com/reloZid/android-anuto
+AnyMemo------https://github.com/helloworld1/AnyMemo
+AnySoftKeyboard------https://github.com/AnySoftKeyboard/AnySoftKeyboard
+AnySoftKeyboard Dutch------https://github.com/AnySoftKeyboard/LanguagePack/tree/Dutch
+AnySoftKeyboard: Basque------https://github.com/AnySoftKeyboard/LanguagePack/tree/Basque
+AnySoftKeyboard: Brazilian------https://github.com/AnySoftKeyboard/LanguagePack/tree/Brazilian
+AnySoftKeyboard: Czech------https://github.com/AnySoftKeyboard/LanguagePack/tree/Czech
+AnySoftKeyboard: Danish------https://softkeyboard.googlecode.com/svn/trunk/LanguagePacks/Danish
+AnySoftKeyboard: Finnish------https://github.com/AnySoftKeyboard/LanguagePack/tree/Finnish
+AnySoftKeyboard: German------https://github.com/AnySoftKeyboard/LanguagePack/tree/German
+AnySoftKeyboard: Greek------https://github.com/AnySoftKeyboard/LanguagePack/tree/Greek
+AnySoftKeyboard: Hebrew------https://github.com/AnySoftKeyboard/LanguagePack/tree/Hebrew
+AnySoftKeyboard: Icelandic------https://github.com/AnySoftKeyboard/LanguagePack/tree/Icelandic
+AnySoftKeyboard: Italian------https://github.com/AnySoftKeyboard/LanguagePack/tree/Italian
+AnySoftKeyboard: Latvian------https://github.com/AnySoftKeyboard/LanguagePack/tree/Latvian
+AnySoftKeyboard: Macedonian------https://github.com/AnySoftKeyboard/LanguagePack/tree/Macedonian
+AnySoftKeyboard: NEO2------https://github.com/kertase/neo_anysoftkeyboard
+AnySoftKeyboard: Norwegian------https://github.com/AnySoftKeyboard/LanguagePack/tree/Norwegian
+AnySoftKeyboard: Portuguese------https://github.com/AnySoftKeyboard/LanguagePack/tree/Portuguese
+AnySoftKeyboard: Slovene------https://github.com/AnySoftKeyboard/LanguagePack/tree/Slovene
+AnySoftKeyboard: Spanish------https://github.com/AnySoftKeyboard/LanguagePack/tree/Spanish
+AnySoftKeyboard: Swedish------https://github.com/AnySoftKeyboard/LanguagePack/tree/Swedish
+AnySoftKeyboard: Tatar------https://github.com/AnySoftKeyboard/LanguagePack/tree/Tatar
+AnySoftKeyboard: Ukrainian------https://github.com/AnySoftKeyboard/LanguagePack/tree/Ukrainian
+AnySoftKeyboard: Русский------https://github.com/AnySoftKeyboard/LanguagePack/tree/Russian
+Apk Extractor------https://github.com/axxapy/apkExtractor
+ApkTrack------https://github.com/JusticeRage/ApkTrack
+App Launcher------https://github.com/SimpleMobileTools/Simple-App-Launcher
+Apple Flinger------https://gitlab.com/ar-/apple-flinger
+Apple UnifiedNlp Backend------https://github.com/microg/AppleWifiNlpBackend
+Applications Info------https://github.com/MajeurAndroid/Applications-Info
+Apps Organizer------https://code.google.com/p/appsorganizer/source
+APV PDF Viewer------https://github.com/mpietrzak/apv
+ArchWiki Viewer------https://github.com/jtmcn/archwiki-viewer
+Arity------https://code.google.com/p/arity-calculator/source
+arXiv mobile------https://github.com/jdeslip/arxiv-mobile
+AsciiCam------https://github.com/dozingcat/AsciiCam
+Ask me anything meaningful------https://github.com/lsubel/amam-cordova
+aSQLiteManager------https://sourceforge.net/p/asqlitemanager/code
+AsteroidOS Sync------https://github.com/AsteroidOS/AsteroidOSSync
+Asura------https://gitlab.com/asura/android
+AtmosphereLogger------https://github.com/lllllT/AtmosphereLogger
+Atomic------https://github.com/indrora/Atomic
+Audinaut------https://github.com/nvllsvm/Audinaut
+Audio Recorder------https://gitlab.com/axet/android-audio-recorder/tree/HEAD
+AudioMeter------https://github.com/quaap/AudioMeter
+Audiometry Made Easy------https://github.com/ReeceStevens/ut_ewh_audiometer_2014
+AURdroid------https://github.com/rascarlo/AURdroid
+Authorizer------https://github.com/tejado/Authorizer
+Auto Airplane Mode------https://github.com/MBach/AutoAirplaneMode
+Auto Updater for Chromium------https://github.com/adolfintel/chromiumUpdater
+Auto-Away------https://github.com/DizzyThermal/Auto-Away
+AutoAnswer------https://code.google.com/p/auto-answer/source
+AwesomeWallpaper------https://github.com/vvolas/Awesome-Live-Wallpaper
+Baby Sleep Sounds------https://github.com/brarcher/baby-sleep-sounds
+BabyName------https://github.com/mdecorde/BABYNAME
+BackgroundRestrictor------https://github.com/MrBIMC/RunInBackgroundPermissionSetter
+Bad Pixel Detector------https://github.com/SibDev/BadPixels
+Balance------https://github.com/scheich/Balance
+Bankdroid------https://github.com/liato/android-bankdroid
+Barcode Scanner------https://github.com/zxing/zxing
+Barcodegen------https://gitlab.com/muelli/barcodegen/tree/HEAD
+BARIA------https://gitlab.com/easwareapps/BARIA/tree/HEAD
+Barnacle Wifi Tether------https://github.com/szym/barnacle
+BART Runner------https://github.com/dougkeen/BartRunnerAndroid
+BasketBuild Downloader------https://github.com/daktak/basketbuild_downloader
+Bats! HIIT------https://github.com/kwantam/batsHIIT
+Battery Charge Limit------https://github.com/sriharshaarangi/BatteryChargeLimit
+Battery Dog------https://sourceforge.net/p/andbatdog/code
+Battery level------https://gitlab.com/souch/SMSbypass/tree/HEAD
+Battery Live------https://github.com/enricocid/Battery-Live
+BatteryBot------https://github.com/darshan-/Battery-Indicator-Free
+BatteryBot Pro------https://github.com/darshan-/Battery-Indicator-Pro
+Beacon Locator------https://github.com/vitas/beaconloc
+BeeCount------https://github.com/knirirr/BeeCount
+Beem------http://www.beem-project.com/projects/beem/repository
+BeHe Keyboard------https://github.com/VladThodo/behe-keyboard
+BeHe Pro------https://github.com/VladThodo/behe-explorer
+Berlin-Vegan------https://github.com/Berlin-Vegan/berlin-vegan-guide
+Beta Updater for WhatsApp------https://github.com/javiersantos/WhatsAppBetaUpdater
+Bewegungsmelder------https://github.com/arnef/bewegungsmelder-android
+Bienvenido a Internet------https://github.com/Renard1911/BaiApp
+Bierverkostung------https://bitbucket.org/jufickel/bierverkostung/src
+BiglyBT, Torrent Downloader------https://github.com/BiglySoftware/BiglyBT-Android
+Bimba------https://github.com/apiote/Bimba
+Binaural Beats Therapy------https://github.com/GiorgioRegni/Binaural-Beats
+BipolAlarm------https://github.com/iexos/BipolAlarm
+Birthday Adapter------https://github.com/SufficientlySecure/birthday-adapter
+Birthday Calendar------https://github.com/saschpe/BirthdayCalendar
+BirthDay Droid------https://gitlab.com/tmendes/BirthDayDroid
+Bitcoin------https://github.com/btcontract/wallet
+Bitcoin Wallet------https://github.com/bitcoin-wallet/bitcoin-wallet
+Bitcoin Wallet [testnet3]------https://github.com/bitcoin-wallet/bitcoin-wallet
+BitShares Wallet------https://github.com/kenCode-de/bitshares-wallet
+BLExplorer------https://github.com/ligi/BLExplorer
+BlitzMail------https://github.com/grote/BlitzMail
+Blokada ad blocker------https://github.com/blokadaorg/blokada
+Blokish------https://github.com/scoutant/blokish
+Blue Minimal------https://github.com/scoute-dich/Baumann_Theme
+Bluetooth RepRap------https://github.com/pipakin/Android-Bluetooth-Reprap
+Bluetooth terminal------https://github.com/Sash0k/bluetooth-spp-terminal
+Bluetooth Viewer (LITE)------https://github.com/janosgyerik/bluetoothviewer
+Bluez IME------https://github.com/kenkendk/android-bluez-ime
+Blurred Lines------https://github.com/ghisguth/sunlight/tree/HEAD/blurredlines
+BMI Calculator------https://github.com/zikalify/BMI_Calculator
+BobBall------https://github.com/bobthekingofegypt/BobBall
+Boilr------https://github.com/drpout/boilr
+Bomber------https://github.com/beide/Bomber-for-android
+BoogDroid------https://github.com/JohnMHarrisJr/BoogDroid
+Book Catalogue------https://github.com/eleybourn/Book-Catalogue
+BookWorm------https://github.com/charlieCollins/and-bookworm
+Booky McBookface------https://github.com/quaap/BookyMcBookface
+BRouter------https://github.com/abrensch/brouter
+Browser------https://github.com/scoute-dich/browser
+Bubble------https://github.com/nkanaev/bubble
+Bubble------https://github.com/avianey/Level
+Budget------https://github.com/notriddle/budget-envelopes
+Budget Watch------https://github.com/brarcher/budget-watch
+Bulkshare 2------https://github.com/alexghr/bulkshare
+Bullseye------https://gitlab.com/x653/bullseye
+BusTO------https://code.launchpad.net/bus-torino
+BusyBox------https://github.com/meefik/busybox
+Bysyklist Oslo------https://gitorious.org/bysyklist/bysyklist
+c3nav------https://github.com/raphaelm/c3nav-android/
+CACertMan------https://github.com/guardianproject/cacert
+Cache Cleaner------https://github.com/Frozen-Developers/android-cache-cleaner
+Caffeine Tile------https://github.com/otaconix/caffeinetile
+Calculator------https://github.com/SimpleMobileTools/Simple-Calculator
+Calculator------https://github.com/Xlythe/android_packages_apps_Calculator
+Calculator (old)------https://github.com/Xlythe/android_packages_apps_Calculator
+Calendar------https://github.com/SimpleMobileTools/Simple-Calendar
+Calendar Color------https://github.com/pascalfree/calendar-color
+Calendar ICS adapter------https://github.com/k3b/CalendarIcsAdapter
+Calendar Import-Export------https://github.com/SufficientlySecure/calendar-import-export
+Calendar Notifications------https://github.com/quarck/CalendarNotification
+Calendar Trigger------https://github.com/rparkins999/CalendarTrigger
+Calendar Widget------https://github.com/plusonelabs/calendar-widget
+Calendula------https://github.com/citiususc/calendula
+Call Recorder------https://gitlab.com/axet/android-call-recorder/tree/HEAD
+CamCov------https://github.com/renyuneyun/CamCov
+Camera------https://github.com/SimpleMobileTools/Simple-Camera
+Camera Roll------https://github.com/kollerlukas/Camera-Roll-Android-App
+CamTimer------https://github.com/dozingcat/CamTimer
+Capitole du Libre------https://github.com/capitoledulibre/cdl-companion-android
+CaptivePortalLogin------https://github.com/jsparber/CaptivePortalAutologin/
+Car Cast------https://github.com/bherrmann7/Car-Cast
+Car Report------https://bitbucket.org/frigus02/car-report/src
+Caramelos------https://github.com/luarca84/Caramelos
+Cat Avatar Generator------https://github.com/agateau/cat-avatar-generator-app
+Catan Dice Game------https://github.com/Bubu/android-dice-game
+Catapult------https://bitbucket.org/lenny_kano/catapult/src/
+Catverbs------https://github.com/bpeel/catverbs
+CertTools------https://github.com/netmackan/CertTools
+Changelog------https://git.polaric.org/polaric/CMLog/tree/master
+Chanu------https://github.com/grzegorznittner/chanu
+ChartDroid Core------https://github.com/kostmo/chartdroid
+Check Network------https://github.com/mathisdt/checknetwork
+Checkey------https://github.com/guardianproject/checkey
+Cherry------https://github.com/gsantner/cherrymusic-android
+Chess Walk------https://gitlab.com/chesswalk/chesswalk
+Chibe------https://github.com/raatmarien/chibe
+Chroma Doze------https://github.com/pmarks-net/chromadoze
+Chromium SWE Updater------https://github.com/bamless/chromium-swe-updater
+ChronoSnap------https://github.com/nathan-osman/chronosnap
+CIDR Calculator------https://github.com/rmceoin/cidrcalculator
+CityZen------https://github.com/CityZenApp/Android-Development
+Clean Status Bar------https://github.com/emmaguy/clean-status-bar
+Clear List------https://github.com/douzifly/clear-todolist
+Clementine Remote------https://github.com/clementine-player/Android-Remote
+Clip Stack------https://github.com/heruoxin/Clip-Stack
+Clock widget------https://github.com/WeAreFairphone/android_packages_apps_ClockWidget
+Clock+------https://github.com/philliphsu/ClockPlus
+Clover------https://github.com/Floens/Clover
+CMIS Browser------https://code.google.com/p/android-cmis-browser/source
+Cmus Remote------https://github.com/jatwigg/cmus-android-remote
+Colorpicker------https://github.com/enricocid/Color-picker-library
+Colors Overflow------https://github.com/TodorBalabanov/ColorsOverflow
+Comfort Reader------https://github.com/mschlauch/comfortreader
+Comics Reader------http://dev.kervala.net/projects/comicsreader/repository
+Commons------https://github.com/commons-app/apps-android-commons
+CommonsLab------https://github.com/CommonsLab/CommonsLab
+CommonsLab------https://github.com/CommonsLab/CommonsLab
+Compass------https://github.com/MiCode/Compass
+Compass Keyboard------https://github.com/gsimon75/compass-keyboard
+Complica4------https://github.com/TodorBalabanov/Complica4
+Computational Demonology------https://github.com/quaap/ComputationalDemonology
+Concurseiro------https://github.com/leonardoraele/concurseiro
+ConnectBot------https://github.com/connectbot/connectbot
+Contact Owner------https://code.google.com/p/contactowner/source
+Content Provider Helper------https://github.com/k3b/ContentProviderHelper
+Conversations------https://github.com/siacs/Conversations
+Cool Reader------https://sourceforge.net/p/crengine/crengine
+Copy to Clipboard------https://github.com/johanhil/copy-to-clipboard
+CosyDVR------https://github.com/sergstetsuk/CosyDVR
+Counter------https://github.com/gentlecat/Simple-Counter/
+Crates.io unofficial------https://github.com/TheUberCatman/crates-io-android
+Critical Maps------https://github.com/CriticalMaps/criticalmaps-android
+Critical Velocity------https://github.com/alaskalinuxuser/app_critical_velocity
+crond------https://github.com/faerbit/android-crond
+Crossword------https://github.com/billthefarmer/crossword
+CrossWords------http://xwords.sourceforge.net/source.php
+Cryptfs Password------https://github.com/nelenkov/cryptfs-password-manager
+CryptoPass------https://bitbucket.org/zeac/cryptopass/src
+CS Teaching Labs------https://github.com/arkon/CDFLabs
+cSploit------https://github.com/cSploit/android
+CuprumPDF------https://github.com/paride/CopperPDF
+Currency------https://github.com/billthefarmer/currency
+Cythara------https://github.com/gstraube/cythara
+D00R------https://github.com/h42i/d00r-app
+DAAP------https://code.google.com/p/daap-client/source
+DadosD------https://gitlab.com/tmendes/DadosD
+dandelion*------https://github.com/Diaspora-for-Android/dandelion
+DAPNET------https://github.com/DecentralizedAmateurPagingNetwork/DAPNETApp
+DataStats------https://github.com/takke/DataStats
+DAVdroid------https://www.davdroid.com/source/
+DBZ Battery Widget------https://github.com/rosenpin/DBZ-Battery-Widget
+Debatekeeper------https://github.com/czlee/debatekeeper
+debDroid------https://github.com/scheich/debDroid
+Debian Kit------https://sourceforge.net/p/debian-kit/code
+Decimal Time Clock Widget------https://github.com/lucasdnd/decimal-clock-widget
+Defendo------https://github.com/HassanHeydariNasab/defendo
+DejaVu Fonts------https://gitlab.com/kmacdeV/cm-dejavu-fonts/tree/HEAD
+Delta Chat------https://github.com/deltachat/deltachat-android
+Democracy Droid------https://github.com/fenimore/DemocracyDroid
+Dental Sounds------https://github.com/Natureshadow/Zahnarztgeraeusche
+Derandom------https://github.com/asnelt/derandom
+Devinettes------https://github.com/polypmer/devinettes-android
+Dew Point------https://gitlab.com/kollo/Taupunkt
+Dialer for Pebble------https://github.com/matejdro/PebbleDialer-Android
+Dialer2------https://bitbucket.org/dnaq/dialer2/src
+Diary------https://github.com/billthefarmer/diary
+Diaspora Webclient------https://github.com/voidcode/Diaspora-Webclient
+Diccionario castellano------https://github.com/javierllorente/adc
+Dice Game------https://github.com/SecUSo/privacy-friendly-dice-game
+Dicer------https://github.com/SecUSo/privacy-friendly-dicer
+DictionaryForMIDs------http://dictionarymid.sourceforge.net/android.html
+Dimmer------https://github.com/giraffine/Android-Project
+Diode------https://github.com/zagaberoo/diode
+Diolinux------https://github.com/renancunha33/diolinux_webapp2
+DioLite------https://framagit.org/bec3/Diolite-android
+Dir------https://github.com/veniosg/Dir
+Direct Dictaphone------https://github.com/herverenault/DirectDictaphone
+Disable Battery Warnings------https://github.com/pR0Ps/DisableBatteryWarnings
+DiskUsage------https://github.com/IvanVolosyuk/diskusage
+DiveDroid------https://github.com/obale/divedroid
+DNS man------https://github.com/otakuchiyan/DNSman
+DNS66------https://github.com/julian-klode/dns66
+DO Swimmer------https://github.com/yassirh/digital-ocean-swimmer
+Document Viewer------https://github.com/SufficientlySecure/document-viewer
+Doda The Exploda------https://github.com/quaap/DodaTheExploda
+DoliDroid------https://git.framasoft.org/eldy/dolidroid/tree/develop
+Dolphin Emulator------https://github.com/dolphin-emu/dolphin
+Domodroid------https://github.com/domogik/domodroid
+Don du Sang------https://git.mob-dev.fr/Schoumi/BloodDonation
+Dongsa------https://github.com/dbravender/korean_conjugation
+DotDash Keyboard------https://github.com/agwells/dotdash-keyboard-android
+Draw------https://github.com/SimpleMobileTools/Simple-Draw
+Drinks------https://github.com/amasciul/Drinks
+DroidAtomix------https://code.google.com/p/droid-atomix/source
+DroidBeard------https://github.com/rastating/DroidBeard
+DroidFish------https://github.com/peterosterlund2/droidfish
+DroidLife------https://code.google.com/p/droidlife/source
+DroidSeries------https://gitorious.org/droidseries
+DroidShows------https://github.com/ltGuillaume/DroidShows
+DroidWeight------https://github.com/yashima/droidweight
+DroidZebra------https://github.com/alkom/droidzebra
+Drum On!------https://github.com/tube42/drumon
+DSC Auto Rename------https://github.com/ciubex/dscautorename
+DSub------https://github.com/daneren2005/Subsonic
+DualSim Reminder------https://github.com/mobimentum/dualsimreminder
+Duck Duck Go------https://github.com/johanhil/ddg-android
+DuckDuckGo------https://github.com/duckduckgo/android-search-and-stories
+Dumbphone Assistant------https://github.com/yeriomin/DumbphoneAssistant
+Duorem------https://github.com/fralik/Duorem
+Dynamic Night Light------https://github.com/quaddy-services/DynamicNightLight
+Dziennik------https://github.com/shymmq/librus-client-kotlin
+Déjà Vu Location Service------https://github.com/n76/DejaVu
+E numbers------https://bitbucket.org/uaraven/enumbers/src
+Earmouse------https://github.com/pklinken/Earmouse
+Easer------https://github.com/renyuneyun/Easer
+Easy Open Link------https://gitlab.com/marc.nause/openlink/tree/HEAD
+Easy xkcd------https://github.com/T-Rex96/Easy_xkcd
+EasyRSS------https://github.com/Alkarex/EasyRSS
+Echo------https://github.com/mafik/echo
+Editor------https://github.com/billthefarmer/editor
+EH17 Schedule------https://github.com/MyIgel/EH17Fahrplan
+Elementary------https://github.com/ultramega/elementary
+Eleven------https://gitlab.com/ymber/Eleven/tree/HEAD
+Elpe Efpe------https://github.com/m0ppers/ElpeEfpeAndroid
+Emerald Launcher------https://github.com/HenriDellal/emerald
+Enchanted Fortress------https://github.com/subchannel13/EnchantedFortress
+Endoscope------https://github.com/hypeapps/Endoscope
+Enhancement------https://gitlab.com/Primokorn/EnhancementTheme/tree/HEAD
+EnigmAndroid------https://github.com/vanitasvitae/EnigmAndroid
+Ensichat------https://github.com/Nutomic/ensichat
+Entrust IdentityGuard Unblocker------https://github.com/pR0Ps/Entrust-IdentityGuard-Unblocker
+EP Mobile------https://github.com/mannd/epmobile
+Episodes------https://github.com/jamienicol/episodes
+Equate------https://github.com/EvanRespaut/Equate
+Etar------https://github.com/Etar-Group/Etar-Calendar
+Eternity Wall------https://github.com/RCasatta/EternityWallAndroid
+EteSync------https://github.com/etesync/android
+Etheric Synthesizer------https://sourceforge.net/p/ethersynth/code/
+Eve-control------https://github.com/e-venement/eve-control
+Eve-control------https://github.com/e-venement/eve-control
+Exalted Dicer------https://github.com/Yonjuni/ExaltedDicer
+ExprEval------https://github.com/gianluca-nitti/android-expr-eval
+External IP------https://github.com/kost/external-ip
+Eylca------https://github.com/mbmb5/Eylca
+F-Droid------https://gitlab.com/fdroid/fdroidclient
+F-Droid Privileged Extension------https://gitlab.com/fdroid/privileged-extension
+Face Slim------https://github.com/indywidualny/FaceSlim
+Fancy Places------https://github.com/gabm/FancyPlaces
+FAST App Search Tool------https://github.com/ligi/FAST
+FasterGPS------https://github.com/Free-Software-for-Android/FasterGPS
+FastHub-Libre------https://github.com/thermatk/FastHub-Libre
+Fate Sheets------https://github.com/ScreamingHawk/fate-sheets
+fb-client------https://github.com/sebastianrakel/fb-client-android
+FBReader------https://github.com/geometer/FBReaderJ
+Feeder------https://gitlab.com/spacecowboy/Feeder
+Fennec F-Droid------http://hg.mozilla.org
+FFUpdater------https://gitlab.com/krt/ffupdater
+File Manager------https://github.com/SimpleMobileTools/Simple-File-Manager
+FilmChecker------https://github.com/zouroboros/filmchecker
+FineGeotag------https://github.com/M66B/FineGeotag
+Fira Font------https://gitlab.com/mmk2410/cm-themechooser-font-fira/tree/HEAD
+Firefox Klar------https://github.com/mozilla-mobile/focus-android
+Fish Rings for Android------https://github.com/TodorBalabanov/FishRingsForAndroid
+Fissure------https://github.com/polypmer/fissure-android
+Flame Haze Shana Animated Wallpaper------https://git.launchpad.net/shanawp
+Flashlight------https://github.com/SimpleMobileTools/Simple-Flashlight
+Flat Connectivity Icons------https://github.com/pR0Ps/FlatConnectivityIcons
+Flexible Wallpaper------https://github.com/danielmeek32/FlexibleWallpaper
+Flite TTS Engine------https://github.com/happyalu/Flite-TTS-Engine-for-Android
+FLock------https://github.com/renyuneyun/FLock
+Flym------https://github.com/FredJul/Flym
+Fon------https://github.com/gjedeer/androidwisprclient
+Food Restrictions------https://gitlab.com/tmendes/FoodRestrictions
+Food Scale Droid------https://gitlab.com/tmendes/FoodScaleDroid
+Footguy------https://github.com/elboza/footguy
+Forecast widgets------https://code.google.com/p/android-sky/source
+Forecastie------https://github.com/martykan/forecastie
+ForkHub------https://github.com/jonan/ForkHub
+ForPDA------https://github.com/slartus/4pdaClient-plus
+ForRunners------https://github.com/khertan/ForRunners
+Forró Lyrics------https://gitlab.com/GabbO2/ForroLyrics/tree/HEAD
+Fortunes------https://github.com/316k/android-fortune
+FOSDEM Companion------https://github.com/cbeyls/fosdem-companion-android
+FOSSASIA 2017------https://github.com/fossasia/open-event-android
+Free Fall------https://gitorious.org/free-fall/free-fall
+Free Mobile Netstat------https://github.com/gilbsgilbs/freemobilenetstat
+Freebloks------https://github.com/shlusiak/Freebloks-Android
+freeminer------https://github.com/freeminer/freeminer
+FreeOTP------https://github.com/freeotp/freeotp-android
+FreeShisen------https://github.com/knilch0r/freeshisen
+Freifunk Auto Connect------https://github.com/WIStudent/FreifunkAutoConnectApp
+French Calendar------https://github.com/caarmen/FRCAndroidWidget
+Frost------https://github.com/dkanada/frost
+Frozen Bubble------https://github.com/videogameboy76/frozenbubbleandroid
+Frozen Bubble LevelEditor plus------https://github.com/videogameboy76/FBEditPlus
+FTP Server (Free)------https://github.com/ppareit/swiftp
+Fun Phone Puppet------https://github.com/no-go/FunPhonePuppet
+Fwknop2------https://github.com/jp-bennett/fwknop2
+G2L------https://gitlab.com/easwareapps/g2l-gesture-launcher
+Gadgetbridge------https://github.com/Freeyourgadget/Gadgetbridge
+Galaxy Zoo------https://github.com/murraycu/android-galaxyzoo
+Gallery------https://github.com/SimpleMobileTools/Simple-Gallery
+GApps Browser------https://github.com/tobykurien/GoogleNews
+Gasflow------https://github.com/mridang/gasflow
+GCstar Viewer------http://svn.gna.org/viewcvs/gcstar/viewer
+Gear Shift------https://github.com/urandom/gearshift
+GeoKrety Logger------https://sourceforge.net/p/geokretylog/code
+Gerberoid------https://github.com/zeldin/Gerberoid
+Get Foreground Activity------https://github.com/seguri/GetForegroundActivity
+getChromium------https://github.com/andDevW/getChromium
+GfxTablet------https://github.com/rfc2822/GfxTablet
+Ghost Commander------https://sourceforge.net/p/ghostcommander/code
+Ghost Commander - Samba plugin------https://sourceforge.net/p/gc-samba/code
+Gift Card Guard------https://github.com/brarcher/gift-card-guard
+Giggity------https://github.com/Wilm0r/giggity
+GLImageViewer------https://github.com/mariotaku/imageviewer-gl
+Gloomy Dungeons 2------https://github.com/restorer/gloomy-dungeons-2
+GLT Companion------https://github.com/linuxtage/glt-companion
+Glucosio------https://github.com/Glucosio/android
+GM Dice------https://github.com/ge0rg/gamemasterdice
+Gobandroid------https://github.com/ligi/gobandroid
+Goblim------https://git.mob-dev.fr/Schoumi/Goblim
+Gomoku------https://bitbucket.org/przemekr/gomoku/src
+Good Weather------https://github.com/qqq3/good-weather
+Graph 89------https://bitbucket.org/dhashoandroid/graph89-free/src
+Gravity Defied------https://github.com/evgenyzinoviev/gravitydefied
+GreenBits------https://github.com/greenaddress/GreenBits
+GreenBits Testnet------https://github.com/greenaddress/GreenBits
+Greyscale------https://github.com/gabrielelucci/greyscale-cmte   
+GTFSOffline------https://github.com/wbrenna/GTFSOffline
+Guess------https://github.com/zxalexis/guess
+Guessaday------https://github.com/mo271/guessaday
+HackDash------https://github.com/tasomaniac/hackdash
+Hacker's Keyboard------https://github.com/klausw/hackerskeyboard
+Halachic Prayer Times------https://sourceforge.net/p/halachictimes/code/
+HandyNotes------https://github.com/atd/HandyNotes
+Hangar------https://github.com/corcoran/Hangar
+HaRail------https://github.com/haha01haha01/HaRail_Android
+Hash Droid------https://gitlab.com/f-droid-mirrors/hash_droid.git
+Hashr------https://github.com/kodejak/Hashr
+Hayai Launcher------https://github.com/seizonsenryaku/HayaiLauncher
+HDA URL------https://github.com/cryptofuture/urlhda-android
+Headphone detector for Vanilla Music------https://github.com/vanilla-music/vanilla-headphone-detector
+Headphone indicator------https://github.com/cweiske/headphoneindicator
+HeatCalc------https://gitlab.com/a-katsarov/heatsink-calc/tree/HEAD
+Here GPS Location------https://github.com/borneq/HereGPSLocation
+Heriswap------https://github.com/SoupeauCaillou/heriswap
+HexColorTime Wallpaper------https://github.com/jajasuperman/HexColorTime
+HHS Moodle------https://github.com/scoute-dich/HHSMoodle
+HN------https://github.com/manmal/hn-android
+HoloKenMod------https://github.com/queler/holokenmod
+Home Assistant------https://github.com/Maxr1998/home-assistant-Android
+Hop'Edia------https://github.com/HopEdia/android-client
+Hot Death------https://github.com/jpriebe/hotdeath
+Hourglass------https://github.com/alaskalinuxuser/app_hourglass
+Hourly Reminder------https://gitlab.com/axet/android-hourly-reminder/tree/HEAD
+Hubble Gallery------https://github.com/derekcsm/hubble_gallery
+HW-Manager------https://gitlab.com/hw-manager/android
+HypnoTwister------https://github.com/kostmo/android-spiral-wallpaper
+I2P------https://github.com/i2p
+IceCatMobile------http://hg.mozilla.org
+ICEcons------https://github.com/1C3/ICEcons
+ICSdroid------https://icsdroid.bitfire.at/source/
+IITC Mobile------https://github.com/jonatkins/ingress-intel-total-conversion
+ImapNotes2------https://github.com/nbenm/ImapNote2
+Impress Remote------https://gerrit.libreoffice.org/gitweb?p=impress_remote.git;a=summary
+Inbox Pager------https://github.com/itprojects/InboxPager
+Indic Keyboard------https://gitlab.com/smc/Indic-Keyboard
+Init.d Light------https://github.com/x1125/initd-light
+Intent Intercept------https://github.com/k3b/intent-intercept
+Intent Intercept------https://github.com/intrications/intent-intercept
+IntentRadio------https://github.com/smblott-github/intent_radio
+Internet Radio------https://notabug.org/metadb-apps/InternetRadio
+InventoryGUI Mobile------https://github.com/salvadorp2001/Inventory_Taker
+Inventum------https://github.com/qqq3/inventum
+IPFSDroid------https://github.com/ligi/IPFSDroid
+Irssi ConnectBot------https://github.com/irssiconnectbot/irssiconnectbot
+IsPhoneEncrypted------https://github.com/seguri/IsPhoneEncrypted
+Ithaka Board Game------https://github.com/TodorBalabanov/IthakaBoardGame
+Iven News Reader------https://github.com/enricocid/lffl-feed-reader
+J 拼图------https://github.com/richardchien/jigsaw-android
+Jamendo------https://github.com/telecapoland/jamendo-android
+Japanese Traditional Time------https://github.com/aragaer/jtt_android
+JAWS------https://github.com/jannispinter/jaws
+JKU App------https://github.com/marunjar/anewjkuapp
+JumpGo------https://github.com/JTechMe/JumpGo
+Just A Damn Compass------https://github.com/jarofgreen/Just-A-Damn-Compass
+Just Craigslist------https://github.com/alaskalinuxuser/app_justcraigslist
+Just Notes------https://github.com/alaskalinuxuser/app_justnotes
+K-9 Mail------https://github.com/k9mail/k-9
+K2------https://github.com/HassanHeydariNasab/k2
+k4android------https://gitlab.tubit.tu-berlin.de/freitagsrunde/k4ever-android-2
+K9 Material (unofficial)------https://github.com/scoute-dich/K9-MailClient
+Kaleidoscope------https://github.com/prrt714/Kaleidoscope
+KanaDrill------https://github.com/jorgecastillo/KanaDrill
+Kandroid------https://github.com/andresth/Kandroid
+KDE Connect------https://cgit.kde.org/kdeconnect-android.git/
+KeePass DX------https://github.com/Kunzisoft/KeePassDX
+KeePassDroid------https://github.com/bpellin/keepassdroid
+Kernel Adiutor------https://github.com/NHellFire/KernelAdiutor
+KIBA------https://git.savannah.gnu.org/cgit/kiba.git/tree
+Kill Camera------https://github.com/aario/killcamera
+Kimai------https://github.com/gsantner/kimai-android
+Kinolog------https://gitlab.com/rrgb/kinolog/tree/HEAD
+KISS launcher------https://github.com/Neamar/KISS
+Kitchen Timer------https://code.google.com/p/kitchentimer/source
+Kiwix------https://github.com/kiwix/kiwix
+Klaxon------https://code.google.com/p/klaxon/source
+Kolab Notes------https://github.com/konradrenner/kolabnotes-android
+Kontalk------https://github.com/kontalk/androidclient
+Kore------https://github.com/xbmc/Kore
+KouChat------https://github.com/blurpy/kouchat-android
+Kung Foo Barracuda------https://github.com/poseidn/KungFoo
+Kwik DataPac (eur.rus)------https://github.com/ninelima/kwikEFIS
+Kwik DataPac (pan.arg)------https://github.com/ninelima/kwikEFIS
+Kwik DataPac (sah.jap)------https://github.com/ninelima/kwikEFIS
+Kwik DataPac (usa.can)------https://github.com/ninelima/kwikEFIS
+Kwik DataPac (zar.aus)------https://github.com/ninelima/kwikEFIS
+Kwik DMAP------https://github.com/ninelima/kwikEFIS
+Kwik EFIS------https://github.com/ninelima/kwikEFIS
+L'angolo nerd------https://github.com/aroblu94/langolonerd_android
+la/u/ncher------https://github.com/nilesr/United4
+LabCoat------https://gitlab.com/Commit451/LabCoat
+LaiCare------https://gitlab.com/LaiCare/laicare
+LaunchTime------https://github.com/quaap/LaunchTime
+LCARS Wallpapers------https://code.google.com/p/lcarswallpaper/source
+LDTO Companion------https://github.com/0iras0r/ils-companion-android
+LeafPic------https://github.com/HoraApps/LeafPic
+Learn Music Notes------http://sourceforge.net/projects/learnmusicnotes/develop
+Lesser Pad------http://sourceforge.jp/users/kodakana/pf/Lesser_Pad/scm
+Lexic------https://code.google.com/p/lexic/source
+Lexica------https://github.com/lexica/lexica
+Library------https://github.com/cgogolin/library
+Libre Droid------https://github.com/foocorp/gnu-fm
+LibreNews------https://github.com/milesmcc/LibreNews-Android
+LibreOffice Viewer------http://cgit.freedesktop.org/libreoffice/core/tree
+LibreTasks------https://github.com/biotinker/LibreTasks/
+LibreTorrent------https://github.com/proninyaroslav/libretorrent
+License------https://notabug.org/metadb-apps/License
+Life Counter------https://github.com/foxykeep/lifecounter
+LifeCounter------https://github.com/MarcelJurtz/MTG_LifeCounter
+Lightning------https://github.com/anthonycr/Lightning-Browser
+Limitless grid------https://github.com/ghisguth/sunlight/tree/HEAD/limitlessgrid
+LinCal------https://github.com/felixwiemuth/LinCal
+Linphone------http://www.linphone.org/technical-corner/linphone/downloads
+LinuxDayOSM------https://github.com/DocSalvi/LinuxDayAppAndroid
+List My Apps------https://github.com/onyxbits/listmyaps
+Little Sir Echo------https://github.com/kaputnikGo/LittleSirEcho
+LnkShortener------https://github.com/michaelachmann/LnkShortener
+LocalGsmNlpBackend------https://github.com/n76/Local-GSM-Backend
+LocalWifiNlpBackend------https://github.com/n76/wifi_backend
+Location Map Viewer------https://github.com/k3b/locationMapViewer
+Location Share------https://github.com/pR0Ps/LocationShare
+Lock------https://github.com/seguri/lock
+Lock Pattern Generator------http://fossil.shick.xyz/lockpatterngenerator/dir
+Locker------ do not have direct source code url
+Logcat------https://github.com/tananaev/rootless-logcat
+Logical Defence------https://github.com/LukeStonehm/LogicalDefence
+Loop Habit Tracker------https://github.com/iSoron/uhabits
+Loyalty Card Keychain------https://github.com/brarcher/loyalty-card-locker
+Lumicall------https://github.com/opentelecoms-org/lumicall
+Lunary------https://github.com/manuelsc/Lunary-Ethereum-Wallet
+Lyrically------https://github.com/shkcodes/Lyrically
+M.A.L.P.------https://github.com/gateship-one/malp
+Mach3Pendant------https://github.com/ratmole/Mach3Pendant
+MagiaDNI------https://git.savannah.gnu.org/cgit/magiadni.git
+Mahjongg Builder------https://code.google.com/p/mahjonggbuilder/source
+Man Man------https://github.com/Adonai/Man-Man
+Maniana------https://code.google.com/p/maniana/source
+Marine Compass------http://svn.pierrox.net/mcompass/trunk
+MarkdownView Demo------https://github.com/falnatsheh/MarkdownView
+Markor------https://github.com/gsantner/markor
+Mastalab------https://github.com/stom79/mastalab
+Material Notes------https://github.com/BijoySingh/Material-Notes-Android-App
+Material Tea Timer------https://github.com/ligi/MaterialTeaTimer
+MaterialFBook------https://github.com/ZeeRooo/MaterialFBook
+Materialistic------https://github.com/hidroh/materialistic
+MaterialOS------https://github.com/materialos/CM12-Theme
+MathDoku------https://code.google.com/p/mathdoku/source
+Mathdroid------https://code.google.com/p/enh/source
+Mather------https://github.com/icasdri/Mather
+MAXS Main------http://projectmaxs.org/source
+MAXS Module AlarmSet------http://projectmaxs.org/source
+MAXS Module Bluetooth------http://projectmaxs.org/source
+MAXS Module BluetoothAdmin------http://projectmaxs.org/source
+MAXS Module Clipboard------http://projectmaxs.org/source
+MAXS Module ContactsRead------http://projectmaxs.org/source
+MAXS Module FileRead------http://projectmaxs.org/source
+MAXS Module FileWrite------http://projectmaxs.org/source
+MAXS Module LocationFine------http://projectmaxs.org/source
+MAXS Module Misc------http://projectmaxs.org/source
+MAXS Module NFC------http://projectmaxs.org/source
+MAXS Module Notification------http://projectmaxs.org/source
+MAXS Module PhonestateRead------http://projectmaxs.org/source
+MAXS Module Ringermode------http://projectmaxs.org/source
+MAXS Module Shell------http://projectmaxs.org/source
+MAXS Module SmsNotify------http://projectmaxs.org/source
+MAXS Module SmsRead------http://projectmaxs.org/source
+MAXS Module SmsSend------http://projectmaxs.org/source
+MAXS Module SmsWrite------http://projectmaxs.org/source
+MAXS Module WifiAccess------http://projectmaxs.org/source
+MAXS Module WifiChange------http://projectmaxs.org/source
+MAXS Transport XMPP------http://projectmaxs.org/source
+mBrowser------https://github.com/chelovek84/mBrowser
+Media Merger------https://gitlab.com/axet/android-media-merger/tree/HEAD
+Meditation Assistant------https://gitlab.com/tslocum/meditationassistant
+Meeting-Cost-Clock------https://gitlab.com/kollo/MeetingCostClock
+Melodeon------https://github.com/billthefarmer/melodeon
+Memento------https://github.com/yaa110/Memento
+MemeTastic------https://github.com/gsantner/memetastic
+Memo Game------https://github.com/SecUSo/privacy-friendly-memo-game
+Memory------https://github.com/androidsoft-org/androidsoft-memory
+Mensa-Guthaben------https://github.com/jakobwenzel/MensaGuthaben
+Mercury-SSH------https://github.com/Skarafaz/mercury
+Messenger bypasser------https://github.com/gsurrel/MessengerBypasser
+meteroid------https://github.com/chaosdorf/meteroid
+Metric Time------https://github.com/mannyamorim/metrictime
+Metrodroid------https://github.com/micolous/metrodroid
+Metronome------https://gitlab.com/funkygoby/metronome
+Metronome------https://github.com/waelk10/Metronome
+mGerrit------https://github.com/JBirdVegas/external_jbirdvegas_mGerrit
+MGit------https://github.com/maks/MGit
+MHGen Database------https://github.com/gatheringhallstudios/MHGenDatabase
+Mi Manga Nu------https://github.com/raulhaag/MiMangaNu
+Micopi+------https://github.com/easytargetmixel/micopi_android
+Microchip------https://github.com/mridang/microchip
+microMathematics Plus------https://github.com/mkulesh/microMathematics
+Microphone------https://github.com/bitplane/Microphone
+MicroPinner------https://github.com/dotWee/MicroPinner
+MIDICtrl------https://github.com/MartiniMoe/MIDICtrl
+MidniteSolar Classic Monitor------https://github.com/graham22/Classic
+MIFARE Classic Tool------https://github.com/ikarus23/MifareClassicTool
+Mighty Knight------https://github.com/alketii/mighty-knight
+Mileage------https://github.com/evancharlton/android-mileage
+Minesweeper------https://github.com/vamartid/Minesweeper
+Minetest------https://github.com/minetest/minetest
+Minetest Mods------https://github.com/rubenwardy/mtmods4android
+Minilens------https://github.com/KOBUGE-Games/minilens
+Minimal------https://github.com/rubenroy/Minimal-Todo
+Ministocks------https://github.com/niteshpatel/ministocks
+Ministro------http://quickgit.kde.org/?p=ministro.git
+MinTube------https://github.com/imshyam/mintube
+Miracast Shortcut------https://github.com/mattgmg1990/miracast-widget
+Mirror Mirror------https://bitbucket.org/tickytacky/mirrormirror/src
+Mirrored------https://gitlab.com/mirrored/mirrored/tree/HEAD
+Missed Notifications Reminder------https://github.com/httpdispatch/MissedNotificationsReminder
+Mitzuli------https://github.com/artetxem/mitzuli
+Mixare------https://github.com/danielegobbetti/mixare
+MoneyBalance------https://github.com/inguin/moneybalance
+Moon Phase------https://github.com/andviane/moon
+MorbidMeter------https://github.com/mannd/morbidmeter-android
+More for GO------https://github.com/rosenpin/More-For-GO
+Moscow Wi-Fi autologin------https://github.com/mosmetro-android/mosmetro-android
+MoTAC------https://github.com/CarstenKarbach/MoTAC
+mOTP------https://github.com/chrismiceli/motp
+MouseApp------https://github.com/cerisara/mousetodon
+Movie DB------https://notabug.org/nvb/MovieDB
+Movim------https://github.com/movim/movim_android
+Mozilla Stumbler------https://github.com/mozilla/MozStumbler
+MozillaNlpBackend------https://github.com/microg/IchnaeaNlpBackend
+MPDroid------https://github.com/abarisain/dmix
+MrWhite------ do not have direct source code url
+MTA Fare Buster------https://github.com/loisaidasam/mta-fare-buster-android
+MTG Familiar------https://github.com/AEFeinstein/mtg-familiar
+mTPMS------https://github.com/kconger/org.thecongers.mtpms
+Multi Sms------https://gitlab.mathux.org/Mathieu/MultiSmsSender
+Multitouch Test------https://github.com/LeonardoCardoso/Multitouch-Test
+Munch------https://github.com/crazyhitty/Munch
+MuPDF------https://git.ghostscript.com/?p=mupdf-android-viewer-old.git;a=summary
+MuPDF mini------https://git.ghostscript.com/?p=mupdf-android-viewer-mini.git;a=summary
+Music------https://android.googlesource.com/platform/packages/apps/Music
+Music Player------https://github.com/SimpleMobileTools/Simple-Music-Player
+music-cyclon------https://github.com/maxammann/music-cyclon
+Muzei------https://github.com/romannurik/muzei
+Muzei - Bing Image of the Day------https://github.com/devmil/muzei-bingimageoftheday
+My Contacts------https://github.com/WeAreFairphone/android_packages_apps_MyContactsWidget
+My Expenses------https://github.com/mtotschnig/MyExpenses
+My Position------https://github.com/gjedeer/mylocation
+MyHackerspace------https://github.com/fixme-lausanne/MyHackerspace
+MyOwnNotes------https://github.com/aykit/MyOwnNotes
+Mysplash------https://github.com/WangDaYeeeeee/Mysplash
+MythDroid------https://code.google.com/p/mythdroid/source
+mythmote------https://github.com/pot8oe/mythmote
+NASA APOD for Muzei------https://github.com/igoralmeida/muzei-apod
+NASA Images------https://gitlab.com/atorresm/NASAImages/tree/HEAD
+National Geographic for Muzei------https://github.com/msal/muzei-nationalgeographic
+Navit------https://github.com/navit-gps/navit
+Nesoid------http://sf.net/p/nesoid/code
+Net Monitor------https://github.com/SecUSo/privacy-friendly-netmonitor
+Netcfg Widget------https://github.com/ram-on/NetcfgWidget
+Netclip------https://github.com/alegen/netclip
+NetGuard------https://github.com/M66B/NetGuard
+NetInfo Widget------https://github.com/ultrafunk/netinfo
+Network------https://github.com/scheich/Network
+Network Discovery------https://rorist.github.com/android-network-discovery
+Network Monitor------https://github.com/caarmen/network-monitor
+NewPipe------https://github.com/TeamNewPipe/NewPipe
+NewsBlur------https://github.com/samuelclay/NewsBlur
+Nextcloud------https://github.com/nextcloud/android
+Nextcloud Bookmarks------https://github.com/theScrabi/OCBookmarks
+Nextcloud dev------https://github.com/nextcloud/android
+Nextcloud News------https://github.com/owncloud/News-Android-App
+Nextcloud SMS------https://github.com/nerzhul/ownCloud-SMS-App
+NextGIS Mobile------https://github.com/nextgis/android_gisapp
+NextINpact (Unofficial)------https://github.com/AnaelMobilia/NextINpact-Unofficial
+NFC Reader------https://github.com/nadam/nfc-reader
+NFCMessageBoard------https://github.com/mofosyne/NFCMessageBoard
+NHBooks------https://github.com/FengMoeTeam/NHentai-android
+Nice Compass------https://github.com/okey666/NiceCompass
+nicoWnnG------https://bitbucket.org/dalb8/nicownng
+Night Mode Enabler------https://github.com/MichaelEvans/NightModeEnabler
+Night Screen------https://github.com/fython/Blackbulb
+Nock Nock (BETA)------https://github.com/afollestad/nock-nock
+NominatimNlpBackend------https://github.com/microg/NominatimGeocoderBackend
+NoNonsense Notes------https://github.com/spacecowboy/NotePad
+NoPhoneSpam------https://gitlab.com/bitfireAT/NoPhoneSpam/
+Nori------https://github.com/tjg1/nori
+Notable Plus------https://github.com/icechen1/Notable
+Note Crypt Pro------https://github.com/RyuzakiKK/NoteCrypt
+NoteBuddy------https://github.com/YoeriNijs/NoteBuddy
+Notepad------https://github.com/szafir1100/drawable-notepad
+Notes------https://github.com/SimpleMobileTools/Simple-Notes
+Notes------https://github.com/stefan-niedermann/nextcloud-notes
+Notes------https://github.com/SecUSo/privacy-friendly-notes
+Notification Notes------https://github.com/khuttun/NotificationNotes
+Notification Plus------https://code.google.com/p/notification-plus/source
+Notifications for Facebook------https://github.com/gsurrel/FacebookNotifications
+Notify Lite------https://code.google.com/p/droid-notify/source
+Nounours and friends------https://github.com/caarmen/nounours-android
+NoUSSD------https://github.com/ethauvin/NoUSSD
+NoWhatOpen------https://github.com/SpEcHiDe/NoWhatOpen
+NTPSync------https://github.com/free-software-for-android/NTPSync
+Number Guesser------https://github.com/Reepeecheep/NumberGuesser
+nusic------https://github.com/schnatterer/nusic
+NWS Weather Alerts Widget------https://github.com/justdave/nwsweatheralertswidget
+NyaaPantsu------https://github.com/NyaaPantsu/NyaaPantsu-android-app
+NZ Tides------https://github.com/jevonlongdell/nztides
+oandbackup------https://github.com/jensstein/oandbackup
+Obsqr------https://github.com/trikita/obsqr
+Oburo.O------https://github.com/alandais/Pointeuse_S3I
+OCReader------https://github.com/schaal/ocreader
+OCS-NG Agent------https://bazaar.launchpad.net/~ocsinventory-dev/ocsinventory-android-agent/stable-2.1/files
+OctoDroid------https://github.com/slapperwan/gh4a
+Odyssey------https://github.com/gateship-one/odyssey
+Offline Calendar------https://github.com/SufficientlySecure/offline-calendar
+OgreSampleBrowser------https://github.com/OGRECave/ogre
+OGS------https://github.com/nathanj/ogsdroid
+OI File Manager------https://github.com/openintents/filemanager
+OI Flashlight------https://github.com/openintents/flashlight
+OI Notepad------https://github.com/openintents/notepad
+OI Shopping List------https://github.com/openintents/shoppinglist
+Omni Notes FOSS------https://github.com/federicoiosue/Omni-Notes
+Omnidroid------https://code.google.com/p/omnidroid/source
+OmniROM Changelog------https://gitlab.com/ByteHamster/changelog/tree/HEAD
+OneTwo------https://github.com/ndleyton/OneTwo
+Onze------https://gitlab.com/xphnx/onze_cm11_theme
+ooniprobe------https://github.com/TheTorProject/ooniprobe-android
+Open Beauty------https://github.com/openfoodfacts/openfoodfacts-androidapp
+Open Camera------https://sourceforge.net/p/opencamera/code
+Open FlashLight------https://github.com/sanbeg/flashlight
+Open Flood------https://github.com/GunshipPenguin/open_flood
+Open Food------https://github.com/openfoodfacts/openfoodfacts-androidapp
+Open Link With------https://github.com/tasomaniac/OpenLinkWith
+Open Manager------https://github.com/nexes/Android-File-Manager
+Open Note Scanner------https://github.com/ctodobom/OpenNoteScanner
+Open Pet Food Facts------https://github.com/openfoodfacts/openfoodfacts-androidapp
+Open Training------https://github.com/chaosbastler/opentraining
+OpenAPK------https://github.com/dkanada/OpenAPK
+OpenArchive------https://github.com/OpenArchive/openarchive
+OpenBikeSharing------https://github.com/bparmentier/OpenBikeSharing
+OpenBmapNlpBackend------https://github.com/wish7code/org.openbmap.unifiedNlpProvider
+OpenDocument Reader------https://github.com/TomTasche/OpenDocument.droid
+OpenGapps Downloader------https://github.com/daktak/opengapps_downloader
+OpenHitboxStreams------https://github.com/theScrabi/OpenHitboxStreams
+OpenKeychain------https://github.com/openpgp-keychain/openpgp-keychain
+OpenLauncher------https://github.com/OpenLauncherTeam/openlauncher
+OpenLP------https://code.launchpad.net/~openlp-core/openlp/android2
+OpenManga------https://github.com/nv95/OpenManga
+OpenMapKit------https://github.com/AmericanRedCross/OpenMapKitAndroid
+OpenMensa------https://github.com/domoritz/open-mensa-android
+openmentoring-mobile------https://github.com/iilab/openmentoring-mobile
+OpenMoneyBox------https://launchpad.net/bilancio
+OpenOrienteering Mapper------https://github.com/OpenOrienteering/mapper/
+OpenPass------https://github.com/ars3niy/openpass
+OpenRedmine------https://github.com/indication/OpenRedmine
+openScale------https://github.com/oliexdev/openScale
+OpenShift------https://github.com/joonatoona/OpenShift
+OpenSudoku------https://github.com/romario333/opensudoku
+OpenTasks------https://github.com/dmfs/opentasks
+OpenTimer------https://github.com/wkillerud/hiofenigma-android
+OpenVPN for Android------https://github.com/schwabe/ics-openvpn
+OpenWLANMap------https://sourceforge.net/p/libwlocate/code
+OpenWLANMini------https://sourceforge.net/p/libwlocate/code
+org.fdroid.fdroid.privileged.ota_2070------https://gitlab.com/fdroid/privileged-extension
+Orgzly------https://github.com/orgzly/orgzly-android
+orWall------https://github.com/EthACKdotOrg/orWall
+Orweb------https://github.com/guardianproject/orweb
+OS Monitor------https://github.com/eolwral/OSMonitor
+Oscilloscope------https://github.com/billthefarmer/scope
+OsmAnd Contour lines------https://github.com/osmandapp/Osmand
+OsmAnd~------https://github.com/osmandapp/Osmand
+OSMBugs------https://github.com/Gittner/OSMBugs
+OSMTracker------https://github.com/nguillaumin/osmtracker-android
+OSRS Helper------https://github.com/ldionmarcil/OSRSHelper
+OTP Authenticator------https://github.com/0xbb/otp-authenticator
+Ouroboros------https://github.com/Luorrak/Ouroboros
+Overchan------https://github.com/miku-nyan/Overchan-Android
+Overchan (fork)------https://github.com/AliceCA/Overchan-Android
+ownCloud------https://github.com/owncloud/android
+ownCloud Beta------https://github.com/owncloud/android/
+ownCloud Bookmarks------https://github.com/theScrabi/OCBookmarks
+packlist------https://github.com/nbossard/packlist
+PactrackDroid------https://github.com/firetech/PactrackDroid
+Padland------https://github.com/mikifus/padland
+PageTurner------https://github.com/NightWhistler/PageTurner
+Paper------https://github.com/beli3ver/Paper-FOSS-Theme
+Paper Wallet------https://github.com/ValleZ/Paper-Wallet
+PaperLaunch------https://github.com/devmil/PaperLaunch
+Papuh------https://github.com/Papuh/PapuhWalls
+PariDroid------http://pari.math.u-bordeaux.fr/cgi-bin/gitweb.cgi?p=paridroid.git;a=summary
+ParkenDD------https://github.com/jklmnn/ParkenDD
+PassAndroid------https://github.com/ligi/PassAndroid
+PassCard------https://github.com/passcard4android/PassCard
+PasseGares------https://framagit.org/JonathanMM/passegares
+Passera------https://github.com/mwgg/passera
+Password Generator------https://github.com/SecUSo/privacy-friendly-passwordgenerator
+Password Store------https://github.com/zeapo/Android-Password-Store
+PC_DIMMER------https://github.com/xn--nding-jua/PC_DIMMER_Android
+PDF Creator------https://github.com/scoute-dich/PDFCreator
+PDF Creator------https://github.com/Swati4star/Images-to-PDF
+Peanut Encryption------https://github.com/goexle/peanutEncryption
+Pedometer------https://github.com/j4velin/Pedometer
+Pedometer------https://github.com/bagilevi/android-pedometer
+Pedometer------https://github.com/SecUSo/privacy-friendly-pedometer
+Pentago------https://bitbucket.org/przemekr/pentago/src
+Periodic Table------https://github.com/Frozen-Developers/android-periodic-table
+Periodical------https://github.com/arnowelzel/periodical
+Persian Calendar------https://github.com/ebraminio/DroidPersianCalendar
+PGPAuth------https://github.com/PGPAuth/PGPAuth_Android
+PGPClipper------https://github.com/Mnkai/PGPClipper
+Phone Saver------https://github.com/ScreamingHawk/phone-saver
+PhoneFoneFun------https://github.com/quaap/PhoneFoneFun
+PhotoBackup------https://github.com/PhotoBackup/client-android
+PhotoPhase------https://github.com/jruesga/PhotoPhase
+Pijaret------https://github.com/MrFlyingToasterman/Pijaret
+PIN Mnemonic------https://github.com/SecUSo/privacy-friendly-pin-mnemonic
+PinDroid------https://github.com/maxpower47/PinDroid
+PinPoi------https://github.com/fvasco/pinpoi
+PipePanic------https://github.com/rnauber/pipepanic-android
+pixelflood------https://github.com/lukaslihotzki/pixelflood
+PixelKnot------https://github.com/guardianproject/PixelKnot
+Pixiv for Muzei------https://github.com/dahlia/muzei-pixiv
+Pizza Cost------https://gitlab.com/kollo/PizzaCostCalculator/tree/HEAD
+Pjuu------https://github.com/pjuu/droidotter/
+Planet Rider------https://github.com/FEDE0D/Planet-Rider/
+PlanetCon------https://github.com/dftec-es/planetcon
+Planning Poker------https://github.com/saschpe/PlanningPoker
+Play Music Exporter------https://github.com/jcgruenhage/PlayMusicExporter
+PlayMusic Widget (sample)------https://github.com/Cleveroad/PlayWidget
+Plumble------https://www.github.com/Morlunk/Plumble
+PlusMinusTimesDivide------https://github.com/ericzolf/pmtd
+pMetro------https://github.com/Utyff/pMetro
+Pocket Gopher------https://github.com/afonsotrepa/PocketGopher
+Pocket Up------https://gitlab.com/juanitobananas/pocket-up/tree/HEAD
+PocketMaps------https://github.com/junjunguo/PocketMaps
+Podax------https://github.com/thasmin/Podax
+PodListen------https://github.com/einmalfel/PodListen
+Poet Assistant------https://github.com/caarmen/poet-assistant
+Point & Hit------https://github.com/raatmarien/Point-and-Hit
+Point.im------https://github.com/Tishka17/Point.im-Android
+Polar Clock------https://github.com/beriain/PolarClock
+Polipoid------https://github.com/splondike/polipoid
+Politrics------https://github.com/TodorBalabanov/Politrics
+Pollywog------https://github.com/huckleberrypie/pollywog
+Pomfshare------https://github.com/Nyubis/Pomfshare
+Pony Express------https://gitorious.org/ponyexpress
+Port Authority------https://github.com/aaronjwood/PortAuthority
+Port Knocker------https://github.com/xargsgrep/PortKnocker
+Postcode------https://github.com/palfrey/postcode
+pOT-Droid------https://github.com/janoliver/pOT-Droid
+Power Ampache------https://gitlab.com/antoniotari/reactive-ampache/
+Počasí v krajích------https://bitbucket.org/stativ/chmupocasi/src
+PPSSPP------https://github.com/hrydgard/ppsspp
+Practice Hub------https://code.google.com/p/music-practice-tools/source
+Prayer Times (Islamic Tools)------https://github.com/metinkale38/namaz-vakti-android
+PrBoom For Android------https://code.google.com/p/prboom4android/source
+Preferences Manager------https://github.com/SimonMarquis/Android-PreferencesManager
+Prepay Credit------https://github.com/DamienOReilly/PrepayCredit
+Pretty Good Music Player------https://github.com/smithdtyler/prettygoodmusicplayer
+PReVo------https://github.com/bpeel/prevo
+Primary------https://github.com/quaap/Primary
+primitive ftpd------https://github.com/wolpi/prim-ftpd
+Prism------https://github.com/andviane/prism
+Privacy Browser------https://git.stoutner.com/?p=PrivacyBrowser.git;a=summary
+Privacy Week Schedule------https://github.com/oe1rfc/CampFahrplan
+Protect Baby Monitor------https://github.com/brarcher/protect-baby-monitor
+PSIAndroid------https://github.com/phpsysinfo/psiandroid
+Public Transport Timisoara------https://github.com/MihaiBalint/TimisoaraPublicTransport
+Puff------https://github.com/PuffOpenSource/Puff-Android
+Punchline Bingo------https://gitlab.com/pierreduchemin/punchline-bingo
+Pushup Buddy------https://code.launchpad.net/~portstrom/pushupbuddy/trunk
+Puzzles------https://github.com/chrisboyle/sgtpuzzles
+pysolfc------https://bitbucket.org/lufebe16/pysolfc/src
+p≡p pretty Easy privacy------ do not have direct source code url
+QKSMS------https://github.com/qklabs/qksms
+QR Scanner------https://github.com/SecUSo/privacy-friendly-qr-scanner
+QRStream------https://github.com/xloem/qrstream
+Quasseldroid------https://github.com/sandsmark/QuasselDroid
+Quick Dice Roller------https://github.com/Ohmnibus/quick-dice-roller
+Quick Draw Everywhere------https://github.com/rosenpin/QuickDrawEverywhere
+Quick Settings------ do not have direct source code url
+QuickDic------https://github.com/rdoeffinger/Dictionary
+Quickdroid------https://github.com/himmele/quickdroid
+QuickLyric------https://github.com/geecko86/QuickLyric
+Quit Smoking------https://github.com/scoute-dich/QuitSmoking
+QuiteSleep------https://github.com/cesarvaliente/quitesleep
+Quoter------https://gitlab.com/easwareapps/Quoter/tree/HEAD
+Quran For My Android------https://github.com/frrahat/Quran-For-My-Android
+Rabbit Escape------https://github.com/andybalaam/rabbit-escape
+RacketGhost------https://github.com/mrksbrg/RacketGhost
+RadioBeacon------https://github.com/wish7code/openbmap
+RadioDroid------https://github.com/segler-alex/RadioDroid
+RainTime------https://github.com/sanderbaas/rainalarm-android
+Rainwave------https://github.com/OEP/rainwave-android
+RasPi Check------https://github.com/eidottermihi/rpicheck
+React------https://github.com/engSERGIU/React
+React (old)------https://github.com/baiatBun/React
+Read4SpeechExperiments------https://gitlab.com/egranell/Read4SpeechExperiments/tree/HEAD
+Recurrence------https://github.com/jonasbleyl/Recurrence
+Red Moon------https://github.com/raatmarien/red-moon
+Reddinator------https://github.com/micwallace/reddinator
+RedPanal------https://github.com/martinchodev/RedPanal-Android-WebApp
+RedReader------https://github.com/QuantumBadger/RedReader
+RedScreenActivity------https://github.com/vi/redscreen.apk
+ReGeX------https://github.com/phikal/ReGeX
+Rehearsal Assistant------https://sourceforge.net/projects/rehearsalassist/code
+ReLaunchX------https://github.com/Leszek111/ReLaunchX
+Remembeer------https://code.discordians.net/projects/remembeer/repository
+Reminders------https://github.com/edsonduarte1990/reminders
+Remote Keyboard------https://github.com/onyxbits/remotekeyboard
+Remote Notifier------https://code.google.com/p/android-notifier/source
+Remuco------https://code.google.com/p/remuco/source
+Rental Calc------https://github.com/brarcher/rental-calc
+Replica Island------https://code.google.com/p/replicaisland/source
+RepWifi------https://git.replicant.us/contrib/Fil/RepWifiApp
+Reservator------https://github.com/futurice/meeting-room-tablet
+Retro Breaker------https://github.com/m45t3r/retrobreaker
+Retro Text Editor------https://github.com/no-go/TextThing
+Retroboy------https://github.com/mikljohansson/retroboy
+Revolution IRC------https://github.com/MCMrARM/revolution-irc
+RF Analyzer------https://github.com/demantz/RFAnalyzer
+RGB Tool------https://github.com/fasteque/rgb-tool
+Rick App------https://github.com/no-go/RickApp
+Rights alert------https://github.com/cglapa/rights-alert
+Ring------ do not have direct source code url
+Ringdroid------https://github.com/google/ringdroid/
+Riot.im------https://github.com/vector-im/riot-android
+Ripple------https://github.com/guardianproject/ripple
+RiverFerry------https://github.com/mdecorde/BAC76
+RKFRead------https://github.com/norenh/RKFRead
+Rocket Guardian------https://gitlab.com/atorresm/rocket-guardian/tree/HEAD
+RoMote------https://github.com/wseemann/RoMote
+Root Verifier------https://github.com/abcdjdj/RootVerifier-APP
+Rotation Lock------https://github.com/phuang/RotationLock
+RPN------https://github.com/lpar/RPN
+RPN------https://github.com/scoutant/rpn
+Rtl-sdr driver------https://github.com/martinmarinov/rtl_tcp_andro-
+Ruler------https://github.com/SecUSo/privacy-friendly-ruler
+Rumble------https://github.com/Marlinski/Rumble
+RunnerUp------https://github.com/jonasoreland/runnerup/
+SAnd------https://gitlab.com/kas70/SAnd/tree/HEAD
+Sanity------https://github.com/awaken/sanity
+Satoshi Proof------https://github.com/ligi/SatoshiProof
+SatStat------https://github.com/mvglasow/satstat
+Save For Offline------https://github.com/JonasCz/save-for-offline
+Save to Nextcloud Bookmarks------https://github.com/TTTDevs/NextCloudBookmarksAndroid
+Screen Notifications------https://github.com/lkorth/screen-notifications
+Screen Shift------https://github.com/aravindsagar/ScreenShift
+ScreenCam------https://github.com/vijai1996/screenrecorder
+ScreenInfo------https://github.com/mportuesisf/ScreenInfo
+Screens------https://github.com/Cj-Malone/Screens
+Screenshot sharer------https://github.com/rosenpin/Screenshot-Sharer
+Scribe4------https://github.com/TodorBalabanov/Scribe4
+ScrollSocket------https://github.com/PowerInside/ScrollSocket
+Scrum Chatter------https://github.com/caarmen/scrumchatter
+SD Scanner------https://github.com/jerickson314/sdscanner
+Seafile------https://github.com/haiwen/seadroid
+Seafood Berserker!------https://github.com/quaap/SeafoodBerserker
+SealNote------https://github.com/vishesh/sealnote
+Search Based Launcher------https://github.com/vackosar/search-based-launcher/
+Search Light------https://code.google.com/p/search-light/source
+Secret Codes------https://github.com/SimonMarquis/Android-SecretCodes
+SecScanQR------https://github.com/Fr4gorSoftware/SecScanQR
+Seeks------https://github.com/sileht/SeeksWidget
+Self-Hosted GPS Tracker------https://github.com/herverenault/Self-Hosted-GPS-Tracker
+SELinuxModeChanger------https://github.com/MrBIMC/SELinuxModeChanger
+Send Reduced------https://github.com/arpruss/sendreduced
+Send With FTP------https://github.com/mtotschnig/SendWithFtp
+Senreta Vortaro------https://github.com/ianmcxa/vortaro
+Sensor Readout------https://github.com/onyxbits/sensorreadout
+Sensors Sandbox------https://github.com/mustafa01ali/SensorsSandbox
+Sensors2OSC------https://github.com/SensorApps/Sensors2OSC
+Sensors2Pd------https://github.com/SensorApps/Sensors2Pd
+Serval Mesh------https://github.com/servalproject/batphone
+ServeStream------https://sourceforge.net/p/servestream/code
+SexyTopo------https://github.com/richsmith/sexytopo
+sg for SteamGifts------https://github.com/SteamGifts/SteamGifts
+SGit------https://github.com/sheimi/SGit
+Shaarlier------https://github.com/dimtion/Shaarlier
+Shader Editor------https://github.com/markusfisch/ShaderEditor
+share my position------https://github.com/sylvek/sharemyposition
+Share to Clipboard------https://github.com/tengusw/share_to_clipboard
+Share via HTTP------https://github.com/marcosdiez/shareviahttp
+ShareToBrowser------https://github.com/queler/sharetobrowser
+Shattered Pixel Dungeon------https://github.com/00-Evan/shattered-pixel-dungeon
+ShellsMP------https://github.com/js-labs/ShellsMP
+Ship Captain and Crew------https://github.com/alaskalinuxuser/app_ship_capt_crew
+Shiurim------https://github.com/opengemara/shiurim
+ShoLi------https://github.com/dsoulayrol/android-sholi
+Shopping List------https://github.com/SecUSo/privacy-friendly-shopping-list
+Shortcuts for Calendar/Contacts------https://github.com/SufficientlySecure/calendar-contacts-shortcuts
+Shorty------https://github.com/billthefarmer/shorty
+Shortyz------https://github.com/kebernet/shortyz
+Show Me Hills------https://github.com/ShowMeHills/ShowMeHills
+ShowsRage------https://github.com/MGaetan89/ShowsRage
+SicMu Player------https://github.com/souch/SMP
+Sieben------https://github.com/scoute-dich/Sieben
+Sigfood------https://github.com/cody82/sigfood
+Signal Generator------https://github.com/billthefarmer/sig-gen
+Signature Spoofing Checker------https://github.com/Lanchon/sigspoof-checker
+Silectric------https://github.com/hoihei/Silectric
+Silence------https://github.com/SilenceIM/Silence
+Silverfish------https://github.com/stanipintjuk/Silverfish
+Simple Bitcoin Cash Widget------https://github.com/hwki/SimpleBitcoinWidget
+Simple Bitcoin Widget------https://github.com/hwki/SimpleBitcoinWidget
+Simple Brick Games------https://github.com/TobiasBielefeld/Simple-Brick-Games
+Simple Chess Clock------https://github.com/eldarerathis/Simple-Chess-Clock
+Simple Dilbert------https://github.com/smarek/Simple-Dilbert
+Simple Ethereum Widget------https://github.com/hwki/SimpleBitcoinWidget
+Simple Explorer------https://github.com/DF1E/SimpleExplorer
+Simple IRC------https://github.com/jcjordyn130/simpleirc
+Simple Last.fm Scrobbler------https://github.com/tgwizard/sls
+Simple Litecoin Widget------https://github.com/hwki/SimpleBitcoinWidget
+Simple Reboot------https://github.com/franciscofranco/Simple-Reboot-app
+Simple sms remote------https://github.com/tranquvis/SimpleSmsRemote
+Simple Solitaire Collection------https://github.com/TobiasBielefeld/Simple-Solitaire
+Simple Weather------https://github.com/Sparker0i/Weather
+SimpleRT------https://github.com/vvviperrr/SimpleRT
+SimpleStatsWidget------https://github.com/Chessmasterrr/SimpleStatsWidget
+Simpletask------https://github.com/mpcjanssen/simpletask-android
+SimpleTextCrypt------https://github.com/aidin36/simpletextcrypt
+Simply Do------https://code.google.com/p/simply-do/source
+Simply Solid------https://github.com/enricocid/Simply-Solid
+SIP Caller------https://github.com/whitequark/SIPCaller
+SIP Switch------https://github.com/robert7k/sipswitch
+Sipdroid------https://github.com/i-p-tel/sipdroid
+Sky Map------https://github.com/sky-map-team/stardroid
+SkyTube------https://github.com/ram-on/SkyTube
+Slide------https://github.com/ccrama/Slide
+Slide------https://github.com/trikita/slide
+SlideItLoud------https://github.com/scheich/SlideItLoud
+SliderSynth------https://github.com/marcopar/SliderSynth
+Slideshow------https://github.com/ScreamingHawk/android-slideshow
+Slight backup------https://github.com/handschuh/Slight-backup
+SlimSocial for Facebook------https://github.com/rignaneseleo/SlimSocial-for-Facebook
+SlimSocial for Twitter------https://github.com/rignaneseleo/SlimSocial-for-Twitter
+Smart Card Emulator------https://github.com/frankmorgner/vsmartcard
+Smart Card Reader------https://github.com/frankmorgner/vsmartcard
+Smart Gadget------https://github.com/Sensirion/SmartGadget-Android
+Smart Receipts Pro------https://github.com/wbaumann/SmartReceiptsLibrary
+Smart Remote Control------https://github.com/timnew/AndroidInfrared
+Smartcoins Wallet------https://github.com/kenCode-de/smartcoins-wallet
+Smarter Wi-Fi Manager------http://kismetwireless.net/gitweb/?p=android-smarterwifi.git;a=summary
+SmartNavi------https://github.com/Phantast/smartnavi
+SMS Backup+------https://github.com/jberkel/sms-backup-plus
+SMS Ping------https://github.com/itds-consulting/android-silent-ping-sms
+SMS Scheduler------https://github.com/yeriomin/SmsScheduler
+Snapcast------https://github.com/badaix/snapcast
+Snooder 21------https://github.com/EXL/Snooder21
+SnooperStopper------https://github.com/xmikos/SnooperStopper
+SnoopSnitch------https://opensource.srlabs.de/projects/snoopsnitch/repository/revisions/master/show
+SNotepad------https://github.com/aario/snotepad
+Sokoban------https://github.com/mobilepearls/com.mobilepearls.sokoban
+Solar Compass------https://github.com/agnibho/solarcompass
+Solitaire------https://code.google.com/p/solitaire-for-android/source
+SolitaireCG------https://sourceforge.net/p/solitairecg/code
+Son of Hunky Punk------https://github.com/retrobits/son_of_hunkypunk
+Sound Recorder------https://github.com/dkim0419/SoundRecorder
+Soundboard------https://github.com/meonwax/soundboard
+SoundWaves------https://github.com/bottiger/SoundWaves
+Spark 360------https://github.com/melllvar/Spark360
+SparkleShare------https://github.com/NewProggie/SparkleShare-Android
+Sparse rss------https://code.google.com/p/sparserss/source
+spaRSS------https://github.com/Etuldan/spaRSS
+Speech Trainer------https://github.com/wrr/speech_trainer
+Speedmeter------https://github.com/flyingrub/SpeedMeter
+SpiritF------https://github.com/mikereidis/spirit2_free
+Spydroid------https://github.com/fyhertz/spydroid-ipcamera
+StageFever------https://github.com/fr3ts0n/StageFever
+Starke Verben------https://github.com/Sw24Softwares/StarkeVerben
+Starun------https://gitlab.com/atorresm/Starun/tree/HEAD
+Step and Height counter------https://github.com/grmpl/StepandHeightcounter
+Stocks Widget------https://github.com/premnirmal/StockTicker
+Stopwatch------https://github.com/KodarKooperativet/NotificationStopwatch
+Storage & USB------https://github.com/enricocid/Storage-USB
+Street­Complete------https://github.com/westnordost/StreetComplete
+Stringlate------https://github.com/LonamiWebs/Stringlate
+Studiportal------https://github.com/crysxd/Studiportal-Checker
+Styrkur------ do not have direct source code url
+Sudoku------https://github.com/SecUSo/privacy-friendly-sudoku
+Sugarizer------https://github.com/llaske/Sugarizer
+Summation------https://github.com/pejic/Summation
+Suntimes------https://github.com/forrestguice/SuntimesWidget
+SuperGenPass------https://github.com/xxv/SuperGenPass
+Superuser------https://github.com/phhusson/Superuser
+Surespot------https://github.com/zoff99/surespot-android
+Survival Manual------https://github.com/ligi/SurvivalManual
+Svarka Odds Calculator------https://github.com/TodorBalabanov/SvarkaOddsCalculator
+SVG redirect------https://github.com/theScrabi/SVG-redirect
+Swiftnotes------https://github.com/adrianchifor/Swiftnotes
+SwpieView------https://github.com/err4nt/SwpieView
+Symphony------https://github.com/n76/Symphony
+SyncOnWifi------https://github.com/Kadabash/SyncOnWifi
+Syncopoli------https://gitlab.com/fengshaun/syncopoli/tree/HEAD
+SyncOrg------https://github.com/wizmer/syncorg
+SyncPlayer------https://github.com/PowerInside/syncplayer
+Syncthing------https://github.com/syncthing/syncthing-android
+SyncWifi------https://github.com/scheich/SyncWifi
+SysLog------https://github.com/Tortel/SysLog
+T-UI------https://github.com/Andre1299/TUI-ConsoleLauncher
+TAC Database Client------http://git.osmocom.org/osmo-tacdb/
+Tachiyomi------https://github.com/inorichi/tachiyomi
+Talalarmo------https://github.com/trikita/talalarmo
+Tallyphant------https://gitlab.com/CiaranG/tallyphant/tree/HEAD
+Tanks of Freedom------https://github.com/w84death/Tanks-of-Freedom
+Tap 'n' Turn------https://github.com/gabm/TapAndTurn
+Taps Of Fire------https://code.google.com/p/tapsoffire/source
+Taskbar------https://github.com/farmerbb/Taskbar
+Tasks------https://github.com/tasks/tasks
+Taskwarrior------https://bitbucket.org/kvorobyev/taskwarriorandroid/src
+Tea Timer------https://github.com/ralphleon/TeaTimer
+TeaCup------https://github.com/yourealwaysbe/teacup
+Telegram------https://github.com/Telegram-FOSS-Team/Telegram-FOSS
+Teleposter------https://github.com/jlelse/teleposter
+Tensor------https://github.com/davidar/tensor
+Terminal Emulator------https://github.com/jackpal/Android-Terminal-Emulator
+Terminightor------https://github.com/theScrabi/Terminightor
+Termux------https://github.com/termux/termux-app
+Termux:API------https://github.com/termux/termux-api
+Termux:Boot------https://github.com/termux/termux-boot
+Termux:Float------https://github.com/termux/termux-float
+Termux:Styling------https://github.com/termux/termux-styling
+Termux:Task------https://github.com/termux/termux-tasker
+Termux:Widget------https://github.com/termux/termux-widget
+Tether companion------https://github.com/RinatKurmaev/Tether-companion
+Text Edit------https://github.com/paulmach/Text-Edit-for-Android
+The Italian Said------https://github.com/francescosoave/TIS_android
+The Knights of Alentejo------https://github.com/TheFakeMontyOnTheRun/knightsofalentejo
+The Light------https://gitlab.com/hotlittlewhitedog/BibleMultiTheLight/tree/HEAD
+Throughput------https://github.com/scheich/Throughput
+Thugaim------https://github.com/meoblast001/thugaim
+Tickmate------https://github.com/lordi/tickmate
+Tigase Messenger------https://projects.tigase.org/projects/tigase-mobilemessenger/repository
+Timber------https://github.com/naman14/Timber
+TimeLapse------https://github.com/ThibaudM/timelapse-sony
+Timeriffic------https://code.google.com/p/timeriffic/source
+Timesheet------https://github.com/ambrice/timesheet
+TimeTable------https://github.com/LuK1337/TimeTable2
+Timidity AE------https://github.com/xperia64/timidity-ae
+Tinc------https://github.com/pacien/tincapp
+Tinc------https://github.com/Vilbrekin/tinc_gui
+Tinfoil for Facebook------https://github.com/velazcod/Tinfoil-Facebook
+Tiny Travel Tracker------https://github.com/redfish64/TinyTravelTracker
+To-Do List------https://github.com/SecUSo/privacy-friendly-todo-list
+Toffeed------https://github.com/JakeLane/Toffeed
+ToGoZip------https://github.com/k3b/toGoZip
+Tomdroid------https://launchpad.net/tomdroid/stable
+ToneDef------https://github.com/Fortyseven/ToneDef
+ToneGenerator.class------https://gitlab.com/axet/android-tone-generator/tree/HEAD
+TopoSuite------https://github.com/hgdev-ch/toposuite-android
+Torch------https://github.com/MrDoomy/Torch
+Torchie------https://github.com/anselm94/Torchie-Android
+Torchlight------https://github.com/SecUSo/privacy-friendly-torchlight
+Torrent Client------https://gitlab.com/axet/android-torrent-client/tree/HEAD
+TouchDetector------https://github.com/sujithkanna/TouchDetector
+TourCount------https://github.com/wistein/TourCount
+Traccar Client------https://github.com/tananaev/traccar-client-android
+Track Work Time------https://github.com/mathisdt/trackworktime
+Trackbook------https://github.com/y20k/trackbook
+Trans------https://github.com/HassanHeydariNasab/trans
+Transdroid------https://github.com/erickok/transdroid
+Transdroid Torrent Search------https://github.com/erickok/transdroid-search
+Transdrone------https://github.com/erickok/transdroid
+TransektCount------https://github.com/wistein/TransektCount
+Transistor------https://github.com/y20k/transistor
+Transparent Widget------https://gitlab.com/easwareapps/TransparentWidget/tree/HEAD
+Transportr------https://github.com/grote/Transportr
+Transports Bordeaux------https://github.com/ybonnel/TransportsRennes
+Transports Rennes------https://github.com/ybonnel/TransportsRennes/tree/noGoogleMap
+TrebleShot------https://github.com/genonbeta/TrebleShot
+Tremotesf------https://github.com/equeim/tremotesf-android
+TREZOR Manager------https://github.com/trezor/trezor-android
+Tri-Valley Buses------https://github.com/whirish/Tri-Valley-Buses
+Tricky Tripper------https://github.com/koelleChristian/trickytripper
+TRIfA------https://github.com/zoff99/ToxAndroidRefImpl
+TripleCamel------https://github.com/ebaschiera/TripleCamel
+TripSit------https://github.com/TripSit/tripmobile
+Trolly------https://code.google.com/p/trolly/source
+Trycorder------https://github.com/mlsoft/Trycorder5
+TSCH_BYL------https://gitlab.com/kollo/Tschernobyl/tree/HEAD
+TSCH_BYL------https://gitlab.com/kollo/Tschernobyl
+TTRSS-Reader------https://github.com/nilsbraden/ttrss-reader-fork
+Tttris------https://code.google.com/p/tttris/source
+TUC WLAN------https://gitlab.hrz.tu-chemnitz.de/urz-anwendungen/TucWLAN
+TUIOdroid------https://github.com/TobiasSchwirten/tuiodroid
+Tuner------https://github.com/billthefarmer/tuner
+Turris------https://gitlab.labs.nic.cz/turris/turris-android/
+Turtl------https://gitlab.com/xphnx/icon-request-tool
+Tusky------https://github.com/Vavassor/Tusky
+Tuty Fruty Slot for Android------https://github.com/TodorBalabanov/tuty-fruty-slot-for-android
+Tux Paint------https://github.com/tux4kids/Tuxpaint-Android
+TV KILL------https://github.com/42SK/TVKILL
+TVHGuide------https://github.com/john-tornblom/TVHGuide
+Twidere------https://github.com/TwidereProject/Twidere-Android
+UART Smartwatch------https://github.com/no-go/UART-Smartwatch
+UltraSonic------https://github.com/ultrasonic/ultrasonic
+Uncle Finney's Poker------https://github.com/liveplayergames/UFP
+Unicode Map------http://git.madore.org/?p=android/UnicodeMap.git;a=summary
+UnifiedNlp (GAPPS)------https://github.com/microg/android_packages_apps_UnifiedNlp
+UnifiedNlp (no GAPPS)------https://github.com/microg/android_packages_apps_UnifiedNlp
+UnifiedNlp (no GAPPS) (legacy)------https://github.com/microg/android_packages_apps_UnifiedNlp
+UniPatcher------https://github.com/btimofeev/UniPatcher
+Unit Converter Ultimate------https://github.com/physphil/UnitConverterUltimate
+Units------https://staticfree.info/git/Units.git
+Unix Time Clock Widget------https://github.com/lucasdnd/unix-time-clock-widget
+uNote------https://gitlab.com/Varlorg/uNote/tree/HEAD
+Unpopular Music Player------https://gitlab.com/AndreasK/unpopular-music-player
+UPM------https://github.com/adrian/upm-android
+Url forwarder------https://github.com/daverix/urlforwarder
+USB Device Info------https://github.com/alt236/USB-Device-Info---Android
+USB Mountr------https://github.com/Streetwalrus/android_usb_msd
+Vanilla Cover Fetch------https://github.com/vanilla-music/vanilla-music-cover-fetch
+Vanilla Lyrics Search------https://github.com/vanilla-music/vanilla-music-lyrics-search
+Vanilla Music------https://github.com/vanilla-music/vanilla
+Vanilla Tag Editor------https://github.com/vanilla-music/vanilla-music-tag-editor
+VDR-Manager------https://projects.vdr-developer.org/projects/vdr-manager/repository
+Vector Pinball------https://github.com/dozingcat/Vector-Pinball
+Velocity Calculator------https://github.com/jiikuy/velocitycalculator
+Verbiste Android------https://github.com/allan-simon/verbiste-android
+Vespucci (F-Droid)------https://github.com/MarcusWolschon/osmeditor4android
+Veterondo------https://github.com/Antonis427/veterondo
+Vibora-Feed------https://github.com/no-go/ViboraFeed
+VitoshaDM------https://github.com/TodorBalabanov/VitoshaDM
+Vlille Checker------https://github.com/ojacquemart/vlilleChecker
+VocableTrainer Beta------https://github.com/0xpr03/VocableTrainer-Android
+Voice------https://github.com/PaulWoitaschek/Voice
+Voice Recorder Plugin------https://github.com/siacs/VoiceRecorder
+VoIP.ms SMS------https://github.com/michaelkourlas/voipms-sms-client
+VotAR------https://github.com/stephanepoinsart/votar
+Voucher Calc------https://gitlab.com/muelli/vouchercalc/tree/HEAD
+VuDroid------https://code.google.com/p/vudroid/source
+Vuze Remote------https://github.com/vuze/vuze-remote-for-android
+Wa-Tor------https://github.com/aperifons/Wa-Tor
+Wake On Lan------https://github.com/mafrosis/Wake-On-Lan
+wallabag------https://github.com/wallabag/android-app
+WALLΞTH------https://github.com/walleth/walleth
+WATransmitter------https://github.com/SpEcHiDe/WhatsAppTransmitter
+WaveUp------https://gitlab.com/juanitobananas/wave-up/tree/HEAD
+Weather------https://github.com/scoute-dich/Weather
+Weather------https://github.com/SecUSo/privacy-friendly-weather
+Weather notification------https://bitbucket.org/gelin/weather-notification/src
+Weather Skin: Bigger Text------https://bitbucket.org/gelin/weather-notification
+Weather Skin: Black------https://bitbucket.org/gelin/weather-notification
+Weather Skin: Black Text Plus------https://bitbucket.org/gelin/weather-notification
+Weather Skin: White------https://bitbucket.org/gelin/weather-notification
+Weather Skin: White Text Plus------https://bitbucket.org/gelin/weather-notification
+Web Opac------https://github.com/opacapp/opacclient
+WebApps------https://github.com/tobykurien/webapps
+WebRadio------https://github.com/Starcommander/StreamRadio/
+WebTube------https://github.com/martykan/webTube
+WeeChat Android------https://github.com/ubergeek42/weechat-android
+WhereAreTheEyes------https://github.com/DaylightingSociety/WhereAreTheEyes
+WhereYouGo------https://github.com/biylda/WhereYouGo
+Who Has My Stuff?------https://github.com/stovocor/whohasmystuff
+Wi-Fi Privacy Police------https://github.com/BramBonne/privacypolice
+Wi-Fi Reminders------https://github.com/glesik/wifireminders
+WiFi ACE------https://github.com/marcus905/android-wifi-ace
+WiFi Automatic------https://github.com/j4velin/WiFi-Auto-Off
+Wifi Fixer------https://github.com/Zanshinmu/Wifi-Fixer
+Wifi Remote Play------https://sourceforge.net/p/wifiremoteplay/android_native
+WiFi Walkie Talkie------https://github.com/js-labs/WalkieTalkie
+WIFI_EAP_SIM_Conf------https://github.com/SLoeuillet/WIFI_EAP_SIM_Conf
+WiFiAnalyzer------https://github.com/VREMSoftwareDevelopment/WifiAnalyzer
+WiFiKeyboard------https://github.com/ivanvolosyuk/wifikeyboard
+WiFiKeyShare------https://github.com/bparmentier/WiFiKeyShare
+WiGLE WiFi Wardriving FOSS------https://github.com/wiglenet/wigle-wifi-wardriving
+WikiJourney------https://github.com/WikiJourney/wikijourney_app
+WikiJourney (legacy)------https://github.com/WikiJourney/wikijourney_app
+Wikipedia------https://github.com/wikimedia/apps-android-wikipedia
+WikipOff------https://github.com/conchyliculture/wikipoff
+Wirebug------https://github.com/sryze/wirebug
+WiseRadar------https://github.com/GrahamBlanshard/WiseRadar
+WLANScanner------https://bitbucket.org/bitbatzen/wlanscanner/src
+Word Power Made Easy------https://github.com/shubhamchaudhary/wordpowermadeeasy
+WorkoutLog------https://github.com/yeriomin/WorkoutLog
+World Clock & Weather------https://github.com/arminha/worldclockwidget
+World Weather------https://github.com/Kestutis-Z/World-Weather
+WorldScope------https://github.com/nus-mtp/worldscope
+WPGen------https://github.com/glesik/wpgen
+Wrong PIN Shutdown------https://gitlab.com/nuntius35/wps
+WTF‽ (The MirOS Project)------https://edugit.org/nik/MirWTFApp.git
+X Server------https://github.com/mattkwan/android-xserver
+Xabber------https://github.com/redsolution/xabber-android
+XBMC Remote------https://github.com/freezy/android-xbmcremote
+XCSoar------http://git.xcsoar.org/cgit/master/xcsoar.git
+Xearth------https://gitlab.com/kollo/xearth
+xkcdViewer------https://github.com/tcoxon/XkcdViewer
+Xmp Mod Player------https://sourceforge.net/p/xmp/xmp-android
+Xposed Downloader------https://github.com/daktak/xposed_downloader
+XSkat------https://github.com/rnauber/xskat-android/
+Yaaic------https://github.com/pocmo/Yaaic
+Yalp Store------https://github.com/yeriomin/YalpStore
+yaxim------https://github.com/ge0rg/yaxim
+Your very own Sun!------https://github.com/ghisguth/sunlight/tree/HEAD/sun
+YouTube Cacher------https://gitlab.com/mudassir/youtube-cacher/tree/HEAD
+YubiClip------https://github.com/Yubico/yubiclip-android
+Yubico Authenticator------https://github.com/Yubico/yubioath-android
+Yucata Envoy------https://github.com/ka-ba/yucata.envoy
+ZANavi------https://github.com/zoff99/zanavi
+Zapp------https://github.com/cemrich/zapp
+Zensuren------https://github.com/ngbvol/Zensuren
+ZephyrLogger------https://github.com/ianmcxa/ZephyrLogger
+Zirco Browser------https://code.google.com/p/zirco-browser/source
+ΞtheRemotΞ------https://github.com/ligi/etheremote
+μlogger------https://github.com/bfabiszewski/ulogger-android
+Расписание МГКЭ------https://github.com/bronydell/MGKE_Android_App
+تودویر------https://github.com/adavari/Todoer
+清心天气------https://github.com/richardchien/clear-weather-android
